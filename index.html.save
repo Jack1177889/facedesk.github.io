@@ -6,11 +6,9 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 <body>
- <div class = "jumbotron">
-  <div class = "row text-center">
-   <h1> The History of St. John's</h1>
+  <div class = "jumbotron">
+  <h1> The History of St. John's</h1>
   </div>
- </div>
 
  <div class = "container">
   <div class = "row text-center">
@@ -132,48 +130,56 @@
 
  <div class = "container">
   <div class = "row text-center">
-    <h2>Foundation - 1920</h2>
-   <div class = "col-sm-3">
-    <h4>1894 Class Stone</h4>
-    <p>As one of the oldest recorded class stones in this schools
-    history, it's not surprising that it would have gone missing. We don't have many
-    clue as to its location, but here is what we do have:</p>
-    <ul>
-    <li>The ceremony was held under rustling trees</li>
-    <li>The other class stones around this year are located in the middle, grassy
-    area of campus</li>
-    <li>Stones around this time period were also basic and square shaped, so this
-    one may be the same.</li>
-    </ul>
-   </div>
-   <div class = "col-sm-3">
-    <h4>1895 Class Stone</h4>
-    <p>Just like 1894's stone, there aren't many clues towards its location, but here is what we do know:</p>
-    <ul>
-    <li>The ceremony was held next to tall trees</li>
-    <li>Just like before, the other class stones around this time period are located in the middle of campus</li>
-    <li>Also like before, this stone may be square shaped as well.</li>
-    </ul>
-   </div>
-   <div class = "col-sm-3">
-    <h4>Class Stone Photo?</h4>
-    <div class = "item"> <img src = "IMG_1860.JPG"></div>
-    <p>If you look past the fence you can see a strange
-    object. Could this be a class stone? Stone from around this time period are 
-    located near Smythe Hall. Now you may ask "If it's a class stone, then
-    shouldn't it be covered in snow?" Well normally it should be, class stones
-    were more respected back then, so there's a chance that maybe people would
-    wipe snow off of the stones. But this is all just speculation. Your guess is
-    as good as mine.</p>
-   </div>
-   <div class = "col-sm-3">
-    <h4>1899 Class Stone</h4>
-    <div class = "item"> <img src = "IMG_1861.JPG"></div>
-    <p>I found this photo while looking for the two
-    lost stones. I thought it was funny how the ball fell off of the stone.</p>
-   </div>
-  </div>
- </div>
+    <h4>Foundation - 1920</h4>
 
+
+
+<div class="arti
+	<h4>1894 Class Stone</h4>
+	<div class = "item"></div>
+	<div class = "col-sm-3"><p>As one of the oldest recorded class stones in this schools
+history, it's not surprising that it would have gone missing. We don't have many
+clue as to its location, but here is what we do have:</p></div>
+<ul>
+<li>The ceremony was held under rustling trees</li>
+<li>The other class stones around this year are located in the middle, grassy
+area of campus</li>
+<li>Stones around this time period were also basic and square shaped, so this
+one may be the same.</li>
+</ul>
+ </div>
+ <div class= "artifact2">
+	<h4>1895 Class Stone</h4>
+	<div class = "item"></div>
+	<div class = "col-sm-3"><p>Just like 1894's stone, there aren't many clues towards its location, but here is what we do know:</p></div>
+<ul>
+<li>The ceremony was held next to tall trees</li>
+<li>Just like before, the other class stones around this time period are located in the middle of campus</li>
+<li>Also like before, this stone may be square shaped as well.</li>
+</ul>
+</div>
+      <div class= "artifact3">
+	<h4>Class Stone Photo?</h4>
+	<div class = "item"> <img src = "IMG_1860.JPG"></div>
+	<div class = "col-sm-3"><p>If you look past the fence you can see a strange
+object. Could this be a class stone? Stone from around this time period are 
+located near Smythe Hall. Now you may ask "If it's a class stone, then
+shouldn't it be covered in snow?" Well normally it should be, class stones
+were more respected back then, so there's a chance that maybe people would
+wipe snow off of the stones. But this is all just speculation. Your guess is
+as good as mine.</p></div>
+</div>
+ <div class = "artifact4">
+	<h4>1899 Class Stone</h4>
+	<div class = "item"> <img src = "IMG_1861.JPG"></div>
+	<div class = "col-sm-3"><p>I found this photo while looking for the two
+lost stones. I thought it was funny how the ball fell off of the stone.</p></div>
+
+
+
+</div>
+</div>
+</div>
+</div>
 </body>
 </html>
