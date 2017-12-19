@@ -1,6 +1,27 @@
+<<<<<<< HEAD
 
 
 body {background-color: #ffcc00;}
+=======
+h1{
+color:#003399;
+}
+
+h2{
+color:#003399;
+}
+
+p {
+color:#003399;
+}
+
+ul {
+color:#003399;
+}
+body {
+background-color: #ffcc00;
+}
+>>>>>>> b470f5bf70faf4cb78d205721cf64c0f5a7f041b
 
 
 img{
@@ -12,7 +33,7 @@ width:100%;
 
 p{
 font-family:"papyrus";
-{
+}
 
 h1{
 font-family:"papyrus";
@@ -22,6 +43,11 @@ font-family:"papyrus";
 h2{
 font-family:"papyrus":
 }
+
+li{
+font-family:"papyrus"
+}
+
 
 
 body{
