@@ -1,20 +1,23 @@
 body {
-color:#003399;
+background-color: #ffcc00;
 }
 
+
 img{
-height:70%;
-width:70%;
+height:100%;
+width:100%;
 }
+	
 
 
 p{
 font-family:"papyrus";
-}
+{
 
 h1{
 font-family:"papyrus";
 }
+
 
 h2{
 font-family:"papyrus":
@@ -23,4 +26,4 @@ font-family:"papyrus":
 
 body{
 background-color:#ffcc00;
-{
+}
