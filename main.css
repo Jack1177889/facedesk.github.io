@@ -13,24 +13,32 @@ color:#003399;
 ul {
 color:#003399;
 }
+body {
+background-color: #ffcc00;
+}
 
-li {
-color:#003399;
-}
+
 img{
-height:70%;
-width:70%;
+height:100%;
+width:100%;
 }
+	
 
 
 p{
-font-family: "comic sans";
+font-family:"papyrus";
+{
+
+h1{
+font-family:"papyrus";
 }
 
 
+h2{
+font-family:"papyrus":
+}
 
 
 body{
 background-color:#ffcc00;
-{
-
+}
