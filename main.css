@@ -27,7 +27,7 @@ width:100%;
 
 p{
 font-family:"papyrus";
-{
+}
 
 h1{
 font-family:"papyrus";
@@ -37,6 +37,11 @@ font-family:"papyrus";
 h2{
 font-family:"papyrus":
 }
+
+li{
+font-family:"papyrus"
+}
+
 
 
 body{
