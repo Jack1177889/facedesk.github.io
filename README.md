@@ -4,6 +4,12 @@
 
 
 # Prg 1:
+### download putty
+[putty](https://github.com/facedesk/facedesk.github.io/blob/master/putty.exe)
+
+### optional: download winscp & notepad++(windows only)
+[npp](https://github.com/facedesk/facedesk.github.io/blob/master/npp.zip)
+[winscp](https://github.com/facedesk/facedesk.github.io/blob/master/WinSCP.exe)
 
 
 # Prg 2:
