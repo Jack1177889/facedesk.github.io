@@ -3,7 +3,7 @@
 # Fund II
 
 
-# Prg 1:
+# programming1
 ### download putty
 - [putty](https://github.com/facedesk/facedesk.github.io/raw/master/putty.exe)
 
@@ -12,7 +12,7 @@
 - [winscp](https://github.com/facedesk/facedesk.github.io/raw/master/WinSCP.exe)
 
 
-# Prg 2:
+# programming2
 ### download .net Core SDK
 - https://github.com/dotnet/core-setup#daily-builds
 - https://www.microsoft.com/net/learn/get-started2/windows?utm_expid=.-Fmi9Q05Ry2oXQgdtPElHw.1&utm_referrer=
