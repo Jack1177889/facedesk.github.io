@@ -14,6 +14,7 @@
 
 ### download visual studio code
 - https://code.visualstudio.com/download
+- Go to extensions and include the C# extension
 
 ### Build a hello world
 > https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
