@@ -24,3 +24,36 @@
 
 ### Build a hello world
 > https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
+
+
+## Units
+# Introduction to C# and visual studio code
+- Strongly typed languages
+- Debugging
+- Casting vs Converting
+- Reference vs Value
+# Object Oriented Design and Coding
+- Classes, Instantiation
+- Static Vs Non-Static
+- Class methods
+- Class member variables
+- Inheritance
+- Reference Versus Value parameter types
+# Design patterns
+- Singleton
+- Decorator
+- Factory
+- Intro to functional Programming
+# Higher Order Functions
+- Map
+- Filter
+- Zip
+- Reduce
+- Lambda Expressions
+- Anonymous functions
+- Function Subscriptions
+# Database Design
+- Types of Databases
+- Primary Keys
+- Foreign Keys
+- Normalization vs Denormalization
