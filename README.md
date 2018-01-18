@@ -44,6 +44,7 @@
 
 
 # programming2
+<span style="background-color:light-green">
 ### download .net Core SDK
 - https://github.com/dotnet/core-setup#daily-builds
 - https://www.microsoft.com/net/learn/get-started2/windows?utm_expid=.-Fmi9Q05Ry2oXQgdtPElHw.1&utm_referrer=
@@ -55,9 +56,10 @@
 
 ### Build a hello world
 > https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
-
+</span>
 
 ## Units
+<span style="background-color:yellow">
 ### Introduction to C# and visual studio code
 - Strongly typed languages/syntax review
 - Debugging
@@ -89,3 +91,4 @@
 - Foreign Keys
 - Normalization vs Denormalization
 - SQL vs NoSQL
+</span>
