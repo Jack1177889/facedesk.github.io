@@ -1,6 +1,13 @@
 # facedesk.github.io
 
 # Fund II
+### download putty
+- [putty](https://github.com/facedesk/facedesk.github.io/raw/master/putty.exe)
+
+### optional: download winscp & notepad++(windows only)
+- [npp](https://github.com/facedesk/facedesk.github.io/raw/master/npp.zip)
+- [winscp](https://github.com/facedesk/facedesk.github.io/raw/master/WinSCP.exe)
+
 
 
 # programming1
@@ -11,6 +18,8 @@
 - [npp](https://github.com/facedesk/facedesk.github.io/raw/master/npp.zip)
 - [winscp](https://github.com/facedesk/facedesk.github.io/raw/master/WinSCP.exe)
 
+##Units
+#
 
 # programming2
 ### download .net Core SDK
