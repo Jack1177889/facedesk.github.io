@@ -1,4 +1,4 @@
-# facedesk.github.io
+
 
 # ComputerFundamentals2
 ### download putty
@@ -59,32 +59,33 @@
 
 ## Units
 ### Introduction to C# and visual studio code
-- Strongly typed languages
+- Strongly typed languages/syntax review
 - Debugging
 - Casting vs Converting
 - Reference vs Value
 ### Object Oriented Design and Coding
 - Classes, Instantiation
 - Static Vs Non-Static
+- public, private, protected
 - Class methods
 - Class member variables
 - Inheritance
-- Reference Versus Value parameter types
 ### Design patterns
 - Singleton
 - Decorator
 - Factory
-- Intro to functional Programming
-### Higher Order Functions
+### Intro to functional Programming
 - Map
 - Filter
 - Zip
 - Reduce
 - Lambda Expressions
 - Anonymous functions
+- Delegate functions
 - Function Subscriptions
 ### Database Design
 - Types of Databases
 - Primary Keys
 - Foreign Keys
 - Normalization vs Denormalization
+- SQL vs NoSQL
