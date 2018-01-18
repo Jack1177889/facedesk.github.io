@@ -1,6 +1,6 @@
 # facedesk.github.io
 
-# Fund II
+# ComputerFundamentals2
 ### download putty
 - [putty](https://github.com/facedesk/facedesk.github.io/raw/master/putty.exe)
 
@@ -8,7 +8,20 @@
 - [npp](https://github.com/facedesk/facedesk.github.io/raw/master/npp.zip)
 - [winscp](https://github.com/facedesk/facedesk.github.io/raw/master/WinSCP.exe)
 
-
+## Units
+### Review of Fundamentals 1
+### Introduction to Computer Networking
+### Introduction to Cryptography
+### Git, Github & Command Line
+### Markdown
+### XML
+### HTML
+### CSS
+### Using HTML5 and CSS3
+### Responsive design
+### Intro to Javascript
+### Jquery
+### Advanced Javascript Frameworks
 
 # programming1
 ### download putty
@@ -18,8 +31,17 @@
 - [npp](https://github.com/facedesk/facedesk.github.io/raw/master/npp.zip)
 - [winscp](https://github.com/facedesk/facedesk.github.io/raw/master/WinSCP.exe)
 
-##Units
-#
+## Units
+### SSH, Git, and Command Line
+### Markdown
+### Variables
+### Built-In Functions
+### Conditionals
+### Iteration
+### Simple Data Structures
+### Functions
+### Classes & Objects
+
 
 # programming2
 ### download .net Core SDK
@@ -36,24 +58,24 @@
 
 
 ## Units
-# Introduction to C# and visual studio code
+### Introduction to C# and visual studio code
 - Strongly typed languages
 - Debugging
 - Casting vs Converting
 - Reference vs Value
-# Object Oriented Design and Coding
+### Object Oriented Design and Coding
 - Classes, Instantiation
 - Static Vs Non-Static
 - Class methods
 - Class member variables
 - Inheritance
 - Reference Versus Value parameter types
-# Design patterns
+### Design patterns
 - Singleton
 - Decorator
 - Factory
 - Intro to functional Programming
-# Higher Order Functions
+### Higher Order Functions
 - Map
 - Filter
 - Zip
@@ -61,7 +83,7 @@
 - Lambda Expressions
 - Anonymous functions
 - Function Subscriptions
-# Database Design
+### Database Design
 - Types of Databases
 - Primary Keys
 - Foreign Keys
