@@ -44,7 +44,9 @@
 
 
 # programming2
-<span style="background-color:light-green">
+
+<span style="background-color:orange">
+
 ### download .net Core SDK
 - https://github.com/dotnet/core-setup#daily-builds
 - https://www.microsoft.com/net/learn/get-started2/windows?utm_expid=.-Fmi9Q05Ry2oXQgdtPElHw.1&utm_referrer=
@@ -59,7 +61,7 @@
 </span>
 
 ## Units
-<span style="background-color:yellow">
+<span style="background-color:blue">
 ### Introduction to C# and visual studio code
 - Strongly typed languages/syntax review
 - Debugging
