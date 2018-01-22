@@ -9,17 +9,14 @@
 - Raise your hand for questions and answers
 - Appropriate usage of the internet and computer is expected. Off topic internet and computer usage is not acceptable.
 - No food/(non-water) beverage is permitted in the computer lab
-- Strict no jerks allowed policy
-- Push yourself to finish work early - coding takes longer than you think, and you might need that time.
 - Don't be afraid to help eachother! 
+- Strict no jerks allowed policy
 - Late submissions are accepted but at 50% credit. Submit your work early & often, no penalty for early/partial submissions
-
+- Push yourself to finish work early - coding takes longer than you think, and you might need that time.
  
 
 
-
-
-# Computer_Fundamentals_2
+# computer_fundamentals_2
 ### download putty
 - [putty](https://github.com/facedesk/facedesk.github.io/raw/master/putty.exe)
 
