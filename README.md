@@ -1,3 +1,21 @@
+# Classroom_Ground_Rules
+- Come to class on time and prepared to learn
+- Apply the three R’s
+    - Respect yourself
+    - Respect others
+    - Respect the learning environment
+- Work quietly and on task at all times
+- Participate in classroom activities
+- Raise your hand for questions and answers
+- Appropriate usage of the internet and computer is expected. Off topic internet and computer usage is not acceptable.
+- No food/(non-water) beverage is permitted in the computer lab
+- Strict no jerks allowed policy
+- Push yourself to finish work early - coding takes longer than you think, and you might need that time.
+- Don't be afraid to help eachother! 
+- Late submissions are accepted but at 50% credit. Submit your work early & often, no penalty for early/partial submissions
+
+ 
+
 
 
 
