@@ -28,12 +28,12 @@
     - Ceaser Cipher
     - Substitution Cipher
     - Venginere Cipher
--1 Way encryption
+- 1 Way encryption
     - What is a hash function?
     - Sha1
     - MD5
     - Sha512
--Async encryption
+- Async encryption
     - public/private keys
 ### SSH, Git, and Command Line
 - What is a command line interface?
@@ -115,10 +115,10 @@
  - Declaring and re-declaring a variable
  - Asking user for input, and outputting a variable
  - Variable Types
- -- Int
- -- Float
- -- Boolean
- -- String
+    - Int
+    - Float
+    - Boolean
+    - String
 
 ### Built-In Functions
 ### Conditionals
