@@ -10,19 +10,82 @@
 - [winscp](https://github.com/facedesk/facedesk.github.io/raw/master/WinSCP.exe)
 
 ## Units
+
 ### Review of Fundamentals 1
+- Computer harware
+- Binary Conversions
+- Algorithms
 ### Introduction to Computer Networking
+- IP Address
+- Routing
+- Packet
+- Port
+- Learning the different parts of a URL
+- Client/Server relationships
 ### Introduction to Cryptography
-### Git, Github & Command Line
+- 2 Way encryptions
+    --Pig Latin/Morse Code/Binary
+    --Ceaser Cipher
+    --Substitution Cipher
+    --Venginere Cipher
+-1 Way encryption
+    --Sha1
+    --MD5
+    --Sha512
+-Async encryption
+    --public/private keys
+### SSH, Git, and Command Line
+- What is a command line interface?
+- Getting set up with putty/ssh
+- Using CD to nagivate ubuntu
+- Adding/removing files and folders
+- Intro to Git
+- Git commands
+- Creating your reflection repository
+
 ### Markdown
+ - Editing a file using Pico
+ - Titles & Headers
+ - Subtitles, Text & Bullet points
+ - Embedded code and images
 ### XML
+ - What is a tag?
+ - Structure of an XML document
+ - Nested Tags
+ - Attributes
 ### HTML
+ - Structure of an HTML document & required tags
+ - Creating Text with p, h1-h6
+ - Adding images with img
+ - Creating lists with ul, ol, and li
+ - Creating charts with tables
 ### CSS
+ - Using a css document with link tag
+ - Setting background/foreground colors
+ - Fonts
+ - Background images
+ - Float left/right/center
+ - Display inline/block
 ### Using HTML5 and CSS3
+ - Drawing with the canvas element
+ - Css3 Animations
 ### Responsive design
+ - CDN
+ - Grid System / 12 column layout
+ - JumboTrons/ Button Styling
+ - Carousel
+ - Pagination
 ### Intro to Javascript
+ - Console.log
+ - Alert
+ - Variables
 ### Jquery
+ - Finding HTML elements
+ - Changing HTML Contents
+ - Changing CSS settings
 ### Advanced Javascript Frameworks
+ - TBD
+
 
 # programming_1
 ### download putty
