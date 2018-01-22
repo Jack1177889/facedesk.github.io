@@ -121,6 +121,10 @@
     - String
 
 ### Built-In Functions
+ - len, concat, split, join
+ - Slice, extended slice
+ - lstrip, rstrip
+ - random.randint
 ### Conditionals
 - If
 - Else if
