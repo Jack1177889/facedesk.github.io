@@ -24,17 +24,17 @@
 - Client/Server relationships
 ### Introduction to Cryptography
 - 2 Way encryptions
-    -- Pig Latin/Morse Code/Binary
-    -- Ceaser Cipher
-    -- Substitution Cipher
-    -- Venginere Cipher
+    - Pig Latin/Morse Code/Binary
+    - Ceaser Cipher
+    - Substitution Cipher
+    - Venginere Cipher
 -1 Way encryption
-    -- What is a hash function?
-    -- Sha1
-    -- MD5
-    -- Sha512
+    - What is a hash function?
+    - Sha1
+    - MD5
+    - Sha512
 -Async encryption
-    --public/private keys
+    - public/private keys
 ### SSH, Git, and Command Line
 - What is a command line interface?
 - Getting set up with putty/ssh
