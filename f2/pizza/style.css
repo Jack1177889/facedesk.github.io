@@ -1,17 +1,42 @@
 body {
-    background-color:black;
-    color:white;
-    margin:100px;
+    background-color:black;    
+    color:lightsalmon;
+    font-family: "Helvetica"
 }
 
 
-h2{
-    color:red;
-    margin-left: 20px;
-}
-h5{
-    color:powderblue;
-}
 img{
-    width: 500px;
+width: 200px;
+height:200px;
+}
+
+h5{
+    border-style:none;
+    border-bottom-style:double;
+    border-width:20px;
+    border-color:tomato;
+}
+
+.h7{
+ font-size: 100px;
+ font-weight:bold;
+}
+
+
+.pageMargin{
+    border-style:double;
+    border-width:20px;
+    border-color:tomato;
+    margin:20px;
+    border-radius:10px;
+}
+
+.camos{
+    background:url("https://img.freepik.com/free-vector/camouflage-pattern-background-seamless-vector-illustration_10083-381.jpg");
+    background-repeat:repeat;
+    height:25px;
+}
+.squircle{
+    border-radius:50px;
+    padding: 20px;
 }

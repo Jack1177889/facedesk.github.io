@@ -1,0 +1,18 @@
+.center{
+    text-align:center;
+}
+.tall{
+    height:10px;
+}
+.w{
+    background-color:white;
+    color:black;
+    height:10px;
+}
+.b{
+    background-color:black;
+    color:white;
+}
+.krabs{
+    width:500px;
+}

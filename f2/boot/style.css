@@ -1,0 +1,22 @@
+.green {
+    background-color:green;
+}
+.white{
+    background-color:whitesmoke;
+}
+.gold{
+    background-color:gold;
+}
+.orange{
+    background-color:orange;
+}
+.goldtext{
+    color:gold;
+}
+.smallimage{
+    height:100px;
+    width:100px;
+}
+.block{
+    height:100px;
+}
